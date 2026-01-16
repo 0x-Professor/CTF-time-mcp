@@ -83,6 +83,11 @@ uv run mcp dev server.py
 ```
 
 ## Client Configuration
+### To add the CTFtime MCP server to Claude Desktop, run this command:
+
+```bash
+uv run mcp install server.py --name "CTFtime"
+```
 
 ### Claude Desktop
 
