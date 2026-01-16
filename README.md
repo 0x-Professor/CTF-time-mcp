@@ -50,7 +50,7 @@ A Model Context Protocol (MCP) server providing programmatic access to [CTFtime.
 ### Using uv (Recommended)
 
 ```bash
-git clone https://github.com/yourusername/ctf-times-mcp.git
+git clone https://github.com/0x-Professor/CTF-time-mcp.git
 cd ctf-times-mcp
 uv sync
 ```
