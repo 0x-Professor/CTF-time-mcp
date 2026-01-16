@@ -19,8 +19,7 @@ from mcp.server.fastmcp import FastMCP
 # Initialize the MCP server
 mcp = FastMCP(
     name="CTFtime MCP Server",
-    description="Access CTFtime.org data for CTF events, teams, and rankings",
-    version="1.0.0",
+    instructions="Access CTFtime.org data for CTF events, teams, and rankings. Use the available tools to get information about upcoming CTFs, team rankings, event details, and competition results.",
 )
 
 # CTFtime API base URL
