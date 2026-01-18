@@ -1,10 +1,12 @@
 # CTFtime MCP Server
 
+
 A Model Context Protocol (MCP) server providing programmatic access to [CTFtime.org](https://ctftime.org) data. Retrieve information about CTF competitions, team rankings, event details, and competition results through a standardized interface.
 
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue)](https://modelcontextprotocol.io/)
 [![Python 3.13+](https://img.shields.io/badge/Python-3.13+-green)](https://python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+[![MCP Badge](https://lobehub.com/badge/mcp/0x-professor-ctf-time-mcp)](https://lobehub.com/mcp/0x-professor-ctf-time-mcp)
 
 ## Features
 
